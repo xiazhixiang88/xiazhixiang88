@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there 👋 I'm Zhixiang Xia
 
-<!--
-**xiazhixiang88/xiazhixiang88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. in Applied Statistics
+🧠 Research in Machine Learning + Medical Image AI
 
-Here are some ideas to get you started:
+I build efficient and interpretable deep learning models for large-scale medical images (especially Whole-Slide Images).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus areas
+
+Multiple Instance Learning (MIL)
+
+Graph Neural Networks (GNNs)
+
+Deep learning for survival analysis
+
+Statistical ideas in model design
+
+Medical AI interpretability
+
+Tech
+Python · PyTorch · Scikit-learn · OpenCV · OpenSlide · SQL · Linux
+
+Research
+
+DL for cancer prognosis prediction
+
+Higher-Order Moment MIL (HOMIL)
+
+Sparse cluster-level MIL for WSI
+
+📫 xiazhixiang2022@163.com
